@@ -1,0 +1,6 @@
+SistemaAeropuertoJava/build/
+SistemaAeropuertoJava/dist/
+SistemaAeropuertoJava/nbproject/private/
+out/
+*.class
+.vscode/
